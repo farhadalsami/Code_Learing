@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+
+.second{
+    background-color: blueviolet;
+    color: azure;
+    text-decoration: underline;
+    text-align: center;
+    text-decoration-color: blue;
+    font-size: 30px;
+    font-weight: 500;
+    font-style: italic;
+}
+
