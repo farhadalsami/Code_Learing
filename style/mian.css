@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+}
+
+.main_div{
+    border: 2px solid yellow;
+    margin: 18px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: aquamarine;
+}
+
+img{
+    max-width: 620px;
+    border-radius: 8px;
+    padding: 18px 0;
+
+}
+
+.h1_element{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    text-transform: capitalize;
+    line-height: 38px;
+    padding-bottom: 18px;
+    letter-spacing: 2px;
+
+}
+.h3_element{
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    line-height: 36px;
+}
+p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.list_me{
+    background-color: white;
+    padding: 18px;
+    border: 2px solid yellowgreen;
+    
+}
+
+li{
+    font-size: 20px;
+    padding-bottom: 8px;
+    text-decoration: underline;
+    list-style: decimal;
+}
+
+#cool{
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+    padding: 10px 0;
+    text-decoration-color: aquamarine;
+}
