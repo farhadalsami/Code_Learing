@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav > ul > li {
+    text-transform: capitalize;
+    display: inline;
+    margin-right: 28px;
+    font-weight: 500;
+}
+
+nav li > a {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+
+nav{
+    margin-bottom: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f5f5;
+    padding: 15px 0;
+}
+main{
+    align-items: center;
+    display: flex;
+     justify-content: center;
+}
+main > article{
+    width: 1280px;
+
+}
+
+img{
+    width: 100%;
+}
+h1{
+    font-size: 36px;
+    text-transform: capitalize;
+    margin-bottom: 6px;
+}
+.dateme{
+    margin-bottom: 10px;
+}
+
+.my_header{
+    margin-bottom: 28px;
+}
+
+figcaption{
+    text-align: center;
+    color: rgb(90, 90, 90);
+    margin-top: 4px;
+}
+
+main > article > section{
+    margin: 18px 0;
+}
+
+.my_p{
+    margin-bottom: 12px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+main > article > section > h4{
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-size: 20px;
+}
+main > article > section > p{
+    margin-bottom: 12px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+footer > p{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.my_f{
+    margin: 32px 0;
+}
+
+.tag{
+    margin-right: 18px;
+    color: black;
+}
